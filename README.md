@@ -2,11 +2,11 @@
 ## Questões sobre vetores: 
 ### Pacotes:
 #### altura: 
-1. Programa para ler nome, idade e altura de N pessoa. Depois, mostrar na
+1.Programa para ler nome, idade e altura de N pessoa. Depois, mostrar na
 tela a altura média das pessoas, e mostrar também a porcentagem de pessoas com menos de 16 anos,
 em como os nomes dessas pessoas caso houver.
 #### com/mycompany/cap_memoria_vetores_lista
-2. Programa para ler nome e preços de N produtos. Depois, mostrar na
+2.Programa para ler nome e preços de N produtos. Depois, mostrar na
 tela o preço médio dos produtos.
 #### comerciante
 Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto,
